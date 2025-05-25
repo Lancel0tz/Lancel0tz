@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    You Are My <img src="https://profile-counter.glitch.me/fateryu/count.svg"> Visitors
+    You Are My <img src="https://profile-counter.glitch.me/Lancel0tz/count.svg"> Visitors
   </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Exploring+AI+with+Purpose...;From+Research+to+Real-world+Impact" alt="Typing SVG" />
