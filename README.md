@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-### Hi there 👋
-
-👨‍🎓 [Profile](https://lancel0t.github.io/)
-
 <div align="center">
   <h1>
-    You Are My <img src="https://profile-counter.glitch.me/fateryu/count.svg"> Visitors
+    You Are My <img src="https://profile-counter.glitch.me/lancel0tz/count.svg"> Visitors
   </h1>
   <!--<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaterYU&show_icons=true&count_private=true"/>-->
 
