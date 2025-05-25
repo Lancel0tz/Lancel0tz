@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   </br>
   </br>
-  ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateryu&hide=HTML&langs_count=5">-->
   <img src="./profile-3d-contrib/profile-south-season-animate.svg">
   </br>
