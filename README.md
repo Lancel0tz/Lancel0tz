@@ -17,7 +17,7 @@
       <img src="https://q0.itc.cn/q_70/images03/20250221/9db513114e9a443699abc991383312dc.png" width="40">
     </td>
     <td>
-      <b>BSc in Artificial Intelligence</b><br>
+      <b>BEng in Artificial Intelligence</b><br>
       South China Normal University
     </td>
   </tr>
