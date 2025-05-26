@@ -90,7 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancel0tz&layout=compact&hide=html&theme=default" />
 </div>
 
-### 🫀 Code Activity Status
+### 📉 Activity Status
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
