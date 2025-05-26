@@ -1,20 +1,19 @@
 ### 🧠 Hi there👋
-
 <div align="center">
   <h1>
     You Are My <img src="https://profile-counter.glitch.me/Lancel0tz/count.svg"> Visitors
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Exploring+AI+with+Purpose...;From+Research+to+Real-world+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=An+Engineer+of+Artificial+Intelligence...;mostly+the+artificial+part..." alt="Typing SVG" />
   </a>
 </div>
 
---- 
+
 ### 🎓 Educational Experience
 <table>
   <tr>
     <td width="70" align="center" valign="middle">
-      <img src="https://q0.itc.cn/q_70/images03/20250221/9db513114e9a443699abc991383312dc.png" width="40">
+      <img src="https://q0.itc.cn/q_70/images03/20250221/9db513114e9a443699abc991383312dc.png" width="35">
     </td>
     <td>
       <b>BEng in Artificial Intelligence</b><br>
@@ -45,7 +44,6 @@
   </tr>
 </table>
 
----
 
 ### 🔬 Current Focus
 
@@ -53,18 +51,34 @@
 - 🔍 **Retrieval-Augmented Generation (RAG)** for semantic reasoning  
 - 🗣️ **Multimodal LLMs** for speech-to-text and contextual understanding  
 
----
-
 ### 🧰 Tech Stack
 
 <div align="center">
+
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+  <br>
+
+  <!-- AI / ML Frameworks -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white" />
+
+  <br>
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+
 </div>
 
 ---
@@ -75,3 +89,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lancel0tz&show_icons=true&theme=default&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancel0tz&layout=compact&hide=html&theme=default" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
