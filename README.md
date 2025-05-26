@@ -90,6 +90,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancel0tz&layout=compact&hide=html&theme=default" />
 </div>
 
+### 📊 Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!-- See .github/workflows/waka.yml for the workflow definition -->
+<!-- https://github.com/anmol098/waka-readme-stats -->
+<!-- No need for START_SECTION/Waka if using anmol098 unless you want full control -->
+<!-- Will be replaced on commit by the Action itself -->
 <!--END_SECTION:waka-->
 
