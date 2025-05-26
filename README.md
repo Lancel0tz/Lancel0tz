@@ -39,7 +39,7 @@
     </td>
     <td>
       <b>MPhil in Machine Learning and Machine Intelligence</b> (2025 Fall)<br>
-      University of Cambridge – Speech & Language Processing Track
+      University of Cambridge
     </td>
   </tr>
 </table>
