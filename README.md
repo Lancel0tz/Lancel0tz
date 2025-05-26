@@ -93,10 +93,72 @@
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-<!-- This section will be automatically updated by GitHub Actions -->
-<!-- See .github/workflows/waka.yml for the workflow definition -->
-<!-- https://github.com/anmol098/waka-readme-stats -->
-<!-- No need for START_SECTION/Waka if using anmol098 unless you want full control -->
-<!-- Will be replaced on commit by the Action itself -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.5%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                41 commits          ███████████░░░░░░░░░░░░░░   44.09 % 
+🌆 Daytime                37 commits          ██████████░░░░░░░░░░░░░░░   39.78 % 
+🌃 Evening                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Tuesday                  15 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Friday                   42 commits          ███████████░░░░░░░░░░░░░░   45.16 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             █████████████████████████   100.00 % 
+```
+
+
+
+
+ Last Updated on 26/05/2025 08:24:45 UTC
 <!--END_SECTION:waka-->
 
