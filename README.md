@@ -92,6 +92,8 @@
 
 ### 📉 Activity Status
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.5%20thousand%20lines%20of%20code-blue)
@@ -156,6 +158,6 @@ Python                   4 repos             ███████████�
 
 
 
- Last Updated on 27/05/2025 00:55:06 UTC
+ Last Updated on 28/05/2025 00:56:14 UTC
 <!--END_SECTION:waka-->
 
