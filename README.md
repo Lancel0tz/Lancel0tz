@@ -102,8 +102,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -158,6 +156,6 @@ Python                   4 repos             ███████████�
 
 
 
- Last Updated on 29/05/2025 00:56:24 UTC
+ Last Updated on 30/05/2025 00:56:03 UTC
 <!--END_SECTION:waka-->
 
