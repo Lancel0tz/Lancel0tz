@@ -137,16 +137,18 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+d2l-zh-master            2 hrs 51 mins       ███████████████████░░░░░░   77.04 % 
+Unknown Project          47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+程序                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,6 +160,6 @@ Python                   4 repos             ███████████�
 
 
 
- Last Updated on 10/06/2025 00:57:35 UTC
+ Last Updated on 11/06/2025 00:57:34 UTC
 <!--END_SECTION:waka-->
 
