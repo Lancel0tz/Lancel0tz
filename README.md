@@ -102,8 +102,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -137,18 +135,16 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-d2l-zh-master            2 hrs 51 mins       ███████████████████░░░░░░   77.04 % 
-Unknown Project          47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-程序                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -160,6 +156,6 @@ Python                   4 repos             ███████████�
 
 
 
- Last Updated on 17/06/2025 00:57:29 UTC
+ Last Updated on 18/06/2025 00:57:36 UTC
 <!--END_SECTION:waka-->
 
