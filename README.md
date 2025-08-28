@@ -1,7 +1,7 @@
 ### 🐈‍⬛ Hi there 👋
 <div align="center">
   <h1>
-    You Are My /quad
+    You Are My
     <img src="https://hits.sh/github.com/Lancel0tz.svg?style=flat-square&label=no.&color=afdfe9" alt="Visitors" />
     Visitors
   </h1>
