@@ -1,7 +1,7 @@
 ### 🐈‍⬛ Hi there 👋
 <div align="center">
   <h1>
-    You Are My <img src="https://hits.sh/github.com/Lancel0tz.svg" alt="Visitors" /> Visitors
+    You Are My [![Visitors](https://hits.sh/github.com/Lancel0tz.svg)](https://hits.sh/github.com/Lancel0tz/) Visitors
   </h1>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=An+Engineer+of+Artificial+Intelligence...;mostly+the+artificial+part..." alt="Typing SVG" />
