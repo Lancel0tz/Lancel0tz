@@ -1,12 +1,12 @@
 ### 🐈‍⬛ Hi there 👋
 <div align="center">
   <h1>
-    You Are My 
-    [![Hits](https://hits.sh/github.com/Lancel0tz.svg?style=flat-square&label=no.&color=afdfe9)](https://hits.sh/github.com/Lancel0tz/) 
+    You Are My
+    <img src="https://hits.sh/github.com/Lancel0tz.svg?style=flat-square&label=no.&color=afdfe9" alt="Visitors" />
     Visitors
   </h1>
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=An+Engineer+of+Artificial+Intelligence...;mostly+the+artificial+part..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=An+Engineer+of+Artificial+Intelligence...;mostly+the+artificial+part..." alt="Typing SVG" />
   </a>
 </div>
 
