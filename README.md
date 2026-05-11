@@ -40,7 +40,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/university-of-cambridge-2.svg" width="30">
     </td>
     <td>
-      <b>MPhil in Machine Learning and Machine Intelligence</b> (2025 Fall)<br>
+      <b>MPhil in Machine Learning and Machine Intelligence</b><br>
       University of Cambridge
     </td>
   </tr>
