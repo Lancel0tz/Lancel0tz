@@ -85,16 +85,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Lancel0tz&show_icons=true&theme=default&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</div>
-
 ### 📉 Activity Status
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%204%20mins-blue?style=flat)
