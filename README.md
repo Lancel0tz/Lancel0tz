@@ -88,8 +88,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lancel0tz&show_icons=true&theme=default&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancel0tz&layout=compact&hide=html&theme=default" />
+  <img 
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Lancel0tz&show_icons=true&theme=default&hide_border=true" 
+    alt="GitHub Stats" 
+  />
 </div>
 
 ### 📉 Activity Status
