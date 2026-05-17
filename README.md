@@ -49,7 +49,7 @@
 
 ### 🔬 Current Focus
 
-- 🧊 **Glacier Segmentation** with Self-supervised & Few-shot Learning
+- 🧊 **Long-Term Mermory Agent** Personalized Referential Memory QA
 - 🔍 **Retrieval-Augmented Generation (RAG)** for semantic reasoning  
 - 🗣️ **Multimodal LLMs** for speech-to-text and contextual understanding  
 
