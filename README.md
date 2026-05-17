@@ -49,7 +49,7 @@
 
 ### 🔬 Current Focus
 
-- 🧊 **Long-Term Mermory Agent** Personalized Referential Memory QA
+- 🧊 **Long-Term Mermory Agent** for personalized Referential Memory QA
 - 🔍 **Retrieval-Augmented Generation (RAG)** for semantic reasoning  
 - 🗣️ **Multimodal LLMs** for speech-to-text and contextual understanding  
 
