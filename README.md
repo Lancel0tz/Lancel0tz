@@ -87,17 +87,15 @@
 
 ### 📉 Activity Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%204%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-416.01%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,54 +103,15 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                83 commits          ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌃 Evening                106 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-🌙 Night                  101 commits         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Thursday                 75 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Friday                   99 commits          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             █████████████████████████   100.00 % 
+Python                   8 repos             █████████████████████████   100.00 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 02:06:31 UTC
+ Last Updated on 18/05/2026 02:28:12 UTC
 <!--END_SECTION:waka-->
 
