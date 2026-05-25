@@ -87,6 +87,8 @@
 
 ### 📉 Activity Status
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
@@ -145,12 +147,12 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████████████████████   100.00 % 
+Python                   9 repos             █████████████████████████   100.00 % 
 ```
 
 
 
 
- Last Updated on 24/05/2026 02:14:27 UTC
+ Last Updated on 25/05/2026 02:33:16 UTC
 <!--END_SECTION:waka-->
 
