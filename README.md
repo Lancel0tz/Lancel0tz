@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="70" align="center" valign="middle">
-      <img src="https://statics.scnu.edu.cn/pics/scnuportal_en/2018/1019/1539914995140064.gif" width="35">
+      <img src="https://statics.scnu.edu.cn/pics/scnuportal_en/2018/1019/1539914995140064.gif" width="44" height="44" style="object-fit: contain; display: block; margin: auto;">
     </td>
     <td>
       <b>BEng in Artificial Intelligence</b><br>
